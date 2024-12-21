@@ -1,0 +1,15 @@
+C:\Users\PC MSI\source\repos\Bai\Bai\bin\Debug\Bai.exe.config
+C:\Users\PC MSI\source\repos\Bai\Bai\bin\Debug\Bai.exe
+C:\Users\PC MSI\source\repos\Bai\Bai\bin\Debug\Bai.pdb
+C:\Users\PC MSI\source\repos\Bai\Bai\bin\Debug\EntityFramework.dll
+C:\Users\PC MSI\source\repos\Bai\Bai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC MSI\source\repos\Bai\Bai\bin\Debug\EntityFramework.xml
+C:\Users\PC MSI\source\repos\Bai\Bai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC MSI\source\repos\Bai\Bai\obj\Debug\Bai.csproj.AssemblyReference.cache
+C:\Users\PC MSI\source\repos\Bai\Bai\obj\Debug\Bai.Form1.resources
+C:\Users\PC MSI\source\repos\Bai\Bai\obj\Debug\Bai.Properties.Resources.resources
+C:\Users\PC MSI\source\repos\Bai\Bai\obj\Debug\Bai.csproj.GenerateResource.cache
+C:\Users\PC MSI\source\repos\Bai\Bai\obj\Debug\Bai.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\source\repos\Bai\Bai\obj\Debug\Bai.csproj.Up2Date
+C:\Users\PC MSI\source\repos\Bai\Bai\obj\Debug\Bai.exe
+C:\Users\PC MSI\source\repos\Bai\Bai\obj\Debug\Bai.pdb
